@@ -6,6 +6,6 @@ Repo for the UAE Space Hackaton files.
 
 ### Team Members
 * Roberto Alejandro Gutierréz
-* Nicolas Mauricio
+* Nicolas Cuadrado
 * Klea Ziu
 
